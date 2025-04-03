@@ -1,0 +1,9 @@
+renus
+uvicorn[standard]
+Pillow
+
+
+
+
+
+
